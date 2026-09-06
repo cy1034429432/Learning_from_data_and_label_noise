@@ -6,8 +6,8 @@ If you want to use related codes, please cite the paper.
   journal={IEEE Sensors Journal}, 
   title={Robust Data-Driven Method for Data and Label Noise Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Labeling;Noise;Modeling;Machining;Training;Windings;Wind;Fault diagnosis;Noise measurement;Synchronous machines;Data noise;fault diagnosis;frequency response analysis;label noise;synchronous machine;winding fault},
+  volume={26},
+  number={17},
+  pages={26294-26306},
+  keywords={Labeling;Noise;Modeling;Machining;Training;Windings;Wind;Fault diagnosis;Noise measurement;Synchronous machines;Data noise;fault diagnosis;frequency response analysis (FRA);label noise;synchronous machine;winding fault},
   doi={10.1109/JSEN.2026.3713996}}
